@@ -1,4 +1,5 @@
 # Contributors
+- Ethan Bankowski (http://github.com/bankowskie)
 - Hugh Shanno (http://github.com/HughShanno)
 - Amanda Tracy (https://github.com/tracyam)
 - Ekki Lu
